@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+  }  
+}
+img {
+  width:15vw;
+  height: 10vw;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  list-style-type: circle;
+}
